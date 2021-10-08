@@ -1,0 +1,14 @@
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\bin\Debug\netcoreapp3.1\Tesodev.Webservices.Business.deps.json
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\bin\Debug\netcoreapp3.1\Tesodev.Webservices.Business.dll
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\bin\Debug\netcoreapp3.1\Tesodev.Webservices.Business.pdb
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\bin\Debug\netcoreapp3.1\API.Infrastructure.dll
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\bin\Debug\netcoreapp3.1\Tesodev.Webservices.Data.dll
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\bin\Debug\netcoreapp3.1\API.Infrastructure.pdb
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\bin\Debug\netcoreapp3.1\Tesodev.Webservices.Data.pdb
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Business.csproj.AssemblyReference.cache
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Business.AssemblyInfoInputs.cache
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Business.AssemblyInfo.cs
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Business.csproj.CoreCompileInputs.cache
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Business.dll
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Business\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Business.pdb

@@ -1,0 +1,13 @@
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\bin\Debug\netcoreapp3.1\API.Infrastructure.deps.json
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\bin\Debug\netcoreapp3.1\API.Infrastructure.runtimeconfig.json
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\bin\Debug\netcoreapp3.1\API.Infrastructure.runtimeconfig.dev.json
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\bin\Debug\netcoreapp3.1\API.Infrastructure.dll
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\bin\Debug\netcoreapp3.1\API.Infrastructure.pdb
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\obj\Debug\netcoreapp3.1\API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\obj\Debug\netcoreapp3.1\API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\obj\Debug\netcoreapp3.1\API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\obj\Debug\netcoreapp3.1\API.Infrastructure.AssemblyInfo.cs
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\obj\Debug\netcoreapp3.1\API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\obj\Debug\netcoreapp3.1\API.Infrastructure.dll
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\obj\Debug\netcoreapp3.1\API.Infrastructure.pdb
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\API.Infrastructure\obj\Debug\netcoreapp3.1\API.Infrastructure.genruntimeconfig.cache

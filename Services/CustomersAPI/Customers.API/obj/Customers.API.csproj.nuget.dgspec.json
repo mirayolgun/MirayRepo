@@ -1,0 +1,303 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\CustomersAPI\\Customers.API\\Customers.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\API.Infrastructure\\API.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\API.Infrastructure\\API.Infrastructure.csproj",
+        "projectName": "API.Infrastructure",
+        "projectPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\API.Infrastructure\\API.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\miray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\API.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\miray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\CustomersAPI\\Customers.API\\Customers.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\CustomersAPI\\Customers.API\\Customers.API.csproj",
+        "projectName": "Customers.API",
+        "projectPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\CustomersAPI\\Customers.API\\Customers.API.csproj",
+        "packagesPath": "C:\\Users\\miray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\CustomersAPI\\Customers.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\miray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\API.Infrastructure\\API.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\API.Infrastructure\\API.Infrastructure.csproj"
+              },
+              "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Business\\Tesodev.Webservices.Business.csproj": {
+                "projectPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Business\\Tesodev.Webservices.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Business\\Tesodev.Webservices.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Business\\Tesodev.Webservices.Business.csproj",
+        "projectName": "Tesodev.Webservices.Business",
+        "projectPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Business\\Tesodev.Webservices.Business.csproj",
+        "packagesPath": "C:\\Users\\miray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\miray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\API.Infrastructure\\API.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\API.Infrastructure\\API.Infrastructure.csproj"
+              },
+              "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Data\\Tesodev.Webservices.Data.csproj": {
+                "projectPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Data\\Tesodev.Webservices.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Data\\Tesodev.Webservices.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Data\\Tesodev.Webservices.Data.csproj",
+        "projectName": "Tesodev.Webservices.Data",
+        "projectPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Data\\Tesodev.Webservices.Data.csproj",
+        "packagesPath": "C:\\Users\\miray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\Tesodev.Webservices.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\miray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\API.Infrastructure\\API.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\miray\\source\\repos\\Tesodev.Webservices\\Services\\API.Infrastructure\\API.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

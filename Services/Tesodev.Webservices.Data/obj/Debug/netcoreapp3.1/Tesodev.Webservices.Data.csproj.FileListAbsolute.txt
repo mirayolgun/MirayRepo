@@ -1,0 +1,15 @@
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\bin\Debug\netcoreapp3.1\Tesodev.Webservices.Data.deps.json
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\bin\Debug\netcoreapp3.1\Tesodev.Webservices.Data.dll
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\bin\Debug\netcoreapp3.1\Tesodev.Webservices.Data.pdb
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\bin\Debug\netcoreapp3.1\API.Infrastructure.dll
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\bin\Debug\netcoreapp3.1\API.Infrastructure.pdb
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Data.csproj.AssemblyReference.cache
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Data.AssemblyInfoInputs.cache
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Data.AssemblyInfo.cs
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Data.csproj.CoreCompileInputs.cache
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Data.dll
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Data.pdb
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\bin\Debug\netcoreapp3.1\Tesodev.Webservices.Data.runtimeconfig.json
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\bin\Debug\netcoreapp3.1\Tesodev.Webservices.Data.runtimeconfig.dev.json
+C:\Users\miray\source\repos\Tesodev.Webservices\Services\Tesodev.Webservices.Data\obj\Debug\netcoreapp3.1\Tesodev.Webservices.Data.genruntimeconfig.cache
